@@ -1,5 +1,5 @@
 # AI_Lyricist 
-Create an AI for any of the artists that automatically generates new song lyrics AND a spoken.mp3 file for the new song! 
+Created an AI that automatically generates new song lyrics AND a spoken.mp3 file for the new song! 
 Resources and tools used: [song lyrics file (Kaggle)](https://www.kaggle.com/mousehead/songlyrics),  [pandas](https://pandas.pydata.org/pandas-docs/version/0.18/index.html), [Markovify](https://github.com/jsvine/markovify), [IBM Watson Text-To-Speech API](https://console.bluemix.net/catalog/services/text-to-speech), [TextBlob](https://textblob.readthedocs.io/en/dev/)
 
 ## Examples:
