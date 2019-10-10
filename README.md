@@ -97,6 +97,7 @@ This will generate the new song in .txt file in `./new_lyrics/` and create a .mp
 ## Ideas for improvement:
 * Host all this on a website
 * Train models on sentiment-analyzed lyrics to generate happier/angstier lyrics
+* There should be some noise in the training dataset so that model can work even when data is inappropriate
 
 
 
